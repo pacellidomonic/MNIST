@@ -6,5 +6,5 @@
 
 Extract the mnsit_data.zip folder then run the python code
 
-<img src="[Screenshot 2024-05-07 175333](https://github.com/pacellidomonic/MNIST/assets/63662881/ec12ff9a-3656-4781-9952-69664b51fb99" width="200" />
+<img src="https://github.com/pacellidomonic/MNIST/assets/63662881/ec12ff9a-3656-4781-9952-69664b51fb99" width="200"/>
 ![Screenshot 2024-05-07 175309](https://github.com/pacellidomonic/MNIST/assets/63662881/e1f3f2bf-d1ba-4a46-863a-4c954235aacd | width=100)
