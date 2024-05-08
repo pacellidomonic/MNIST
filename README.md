@@ -8,5 +8,5 @@
 <img src="https://github.com/pacellidomonic/MNIST/assets/63662881/e1f3f2bf-d1ba-4a46-863a-4c954235aacd)" width="400"/>
 
 
-* Extract the mnsit_data.zip folder then run the python code
+* Extract the "mnsit_data.zip" folder then run the python code.
 
