@@ -7,4 +7,4 @@
 Extract the mnsit_data.zip folder then run the python code
 
 <img src="https://github.com/pacellidomonic/MNIST/assets/63662881/ec12ff9a-3656-4781-9952-69664b51fb99" width="400"/>
-<img src="https://github.com/pacellidomonic/MNIST/assets/63662881/e1f3f2bf-d1ba-4a46-863a-4c954235aacd)" width="410"/>
+<img src="https://github.com/pacellidomonic/MNIST/assets/63662881/e1f3f2bf-d1ba-4a46-863a-4c954235aacd)" width="405"/>
