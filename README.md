@@ -1,4 +1,5 @@
 # MNIST
+## About
 * Machine learning project using the MNIST dataset
 * Using the SVC(Support Vector Machine) Algorithim I trained and tested the MNSIT number dataset to predict the type of number presented 0-9.
 * The accuracy came out to 97%.
@@ -7,6 +8,6 @@
 <img src="https://github.com/pacellidomonic/MNIST/assets/63662881/ec12ff9a-3656-4781-9952-69664b51fb99" width="400"/><br>
 <img src="https://github.com/pacellidomonic/MNIST/assets/63662881/e1f3f2bf-d1ba-4a46-863a-4c954235aacd)" width="400"/>
 
-
-* Extract the "mnsit_data.zip" folder then run the python code.
+## Installation
+1. Extract the "mnsit_data.zip" folder then run the python code.
 
